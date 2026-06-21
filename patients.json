@@ -48,5 +48,15 @@
     "weight": 75,
     "bmi": 31.22,
     "verdict": "Obese"
+  },
+  "P006": {
+    "name": "rahul",
+    "city": "mumbai",
+    "age": 30,
+    "gender": "male",
+    "height": 1.7,
+    "weight": 55.0,
+    "bmi": 19.03,
+    "verdict": "Normal"
   }
 }
