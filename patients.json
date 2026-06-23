@@ -51,12 +51,22 @@
   },
   "P006": {
     "name": "rahul",
-    "city": "mumbai",
+    "city": "banglore",
     "age": 30,
     "gender": "male",
     "height": 1.7,
-    "weight": 55.0,
-    "bmi": 19.03,
+    "weight": 70.0,
+    "bmi": 24.22,
+    "verdict": "Normal"
+  },
+  "P007": {
+    "name": "Tim david",
+    "city": "london",
+    "age": 32,
+    "gender": "male",
+    "height": 1.85,
+    "weight": 70.0,
+    "bmi": 20.45,
     "verdict": "Normal"
   }
 }
